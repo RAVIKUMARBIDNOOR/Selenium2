@@ -13,7 +13,7 @@ public class NewTest1 {
 	
   }
  
-  @AfterClass(groups={"purcahse","sales"})
+  @AfterClass(groups={"purcahse","purchase"})
   public void afterf1()
   {
 	  
