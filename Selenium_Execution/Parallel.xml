@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Parallel tedt suite" parallel="tests" thread-count="100">
+<test name="smoke test">
+<classes>
+<class name="lib.lib.com.NewTest1"/>
+<class name="lib.lib.com.NewTest2"/>
+</classes>
+</test>
+</suite>

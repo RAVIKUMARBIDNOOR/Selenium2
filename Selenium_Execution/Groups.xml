@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="groups suite">
+<test name="test">
+<groups>
+<run>
+<include name="sales"></include>
+</run>
+</groups>
+
+<methods>
+<method name="lib.lib.com.NewTest1.java.so1"/>
+</methods>
+</test>
+</suite>
