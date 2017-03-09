@@ -45,7 +45,7 @@ public void po2()
 	  System.out.println("Purchase order 2");
 }
 		
-@Test(groups={"purchase"})
+@Test(groups={"purchase","sale"})
 
 public void po3()
 {
@@ -53,7 +53,7 @@ public void po3()
 	
 }
 
-@Test(groups={"sales"})
+@Test(groups={"sales","purchase"})
 
 public void so2()
 {
